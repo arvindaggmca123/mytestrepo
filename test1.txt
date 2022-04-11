@@ -1,1 +1,3 @@
 hello this is change in remote
+hello this is new text.
+it is new change in local
